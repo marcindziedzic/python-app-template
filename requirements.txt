@@ -1,1 +1,2 @@
 setuptools>=11.3
+wheel
