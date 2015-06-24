@@ -1,0 +1,9 @@
+mock>=1.0.1
+pytest>=2.7.2
+pytest-cov
+pytest-flakes
+pytest-pep8
+pytest-capturelog
+pytest-cache
+freezegun
+pdbpp

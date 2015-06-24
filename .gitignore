@@ -1,0 +1,27 @@
+# Python compiled files.
+*.py[cod]
+
+# Python packages.
+*.egg
+*.eggs
+*.egg-info
+dist
+build
+__pycache__
+
+# Tests.
+.cache
+.coverage
+.tox
+htmlcov
+
+# Docs.
+docs/_build
+
+#IDE
+.project
+.pydevproject
+.idea
+
+# Emacs
+*~
